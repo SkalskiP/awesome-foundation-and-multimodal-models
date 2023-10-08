@@ -2,6 +2,7 @@ import argparse
 from typing import List
 
 import pandas as pd
+import numpy as np
 
 from pandas.core.series import Series
 
@@ -54,8 +55,11 @@ def format_entry(entry: Series) -> str:
     date = entry.loc[DATE_COLUMN_NAME]
     paper_url = entry.loc[PAPER_COLUMN_NAME]
     code_url = entry.loc[CODE_COLUMN_NAME]
-    stripped_code_url = code_url.replace(GITHUB_CODE_PREFIX, "")
-    github_badge = GITHUB_BADGE_PATTERN.format(stripped_code_url, code_url) if code_url else ""
+    if code_url is not np.nan:
+        stripped_code_url = code_url.replace(GITHUB_CODE_PREFIX, "")
+        github_badge = GITHUB_BADGE_PATTERN.format(stripped_code_url, code_url)
+    else:
+        github_badge = ""
     arxiv_badge = ARXIV_BADGE_PATTERN.format(paper_url, paper_url) if paper_url else ""
     return f"| {title} | {date} | {github_badge} {arxiv_badge}|"
 
@@ -64,7 +68,7 @@ def load_table_entries(path: str) -> List[str]:
     """
     Loads table entries from csv file.
     """
-    df = pd.read_csv(path,  quotechar='"', dtype=str)
+    df = pd.read_csv(path, quotechar='"', dtype=str)
     df.columns = df.columns.str.strip()
     return [
         format_entry(row)

@@ -1,2 +1,6 @@
 title, date, paper, code
 "LLaVA: Large Language and Vision Assistant",17-04-2023,2304.08485,https://github.com/haotian-liu/LLaVA
+"Segment Anything",05-04-2023,2304.02643,https://github.com/facebookresearch/segment-anything
+"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection",09-03-2023,2303.05499,https://github.com/IDEA-Research/GroundingDINO
+"Scaling Open-Vocabulary Object Detection",16-01-2023,2306.09683,""
+"BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",30-01-2023,2301.12597,https://github.com/salesforce/LAVIS
