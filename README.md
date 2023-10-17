@@ -1,6 +1,6 @@
 <h1 align="center">awesome foundation and multimodal models</h1>
 
-## 👋 hello
+## 👁️ + 💬 + 👂🏻 = 🤖
 
 **foundation model** - a pre-trained machine learning model that serves as a base for a wide range of downstream tasks. It captures general knowledge from a large dataset and can be fine-tuned to perform specific tasks more effectively.
 
