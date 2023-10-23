@@ -58,6 +58,7 @@ def format_entry(entry: Series) -> str:
     code_url = entry.loc[CODE_COLUMN_NAME]
     huggingface_url = entry.loc[HUGGINGFACE_COLUMN_NAME]
     colab_url = entry.loc[COLAB_COLUMN_NAME]
+    modalities = entry.loc[MODALITIES_COLUMN_NAME]
     arxiv_badge = ARXIV_BADGE_PATTERN.format(paper_url, paper_url) if paper_url else ""
     code_badge = GITHUB_BADGE_PATTERN.format(code_url) if code_url else ""
     huggingface_badge = HUGGINGFACE_BADGE_PATTERN.format(huggingface_url) if huggingface_url else ""
@@ -69,6 +70,7 @@ def format_entry(entry: Series) -> str:
 
 {authors}
 - **Date:** {date}
+- **Modalities:** {modalities}
     """
 
 

@@ -1,6 +1,6 @@
 <h1 align="center">awesome foundation and multimodal models</h1>
 
-## 👁️ + 💬 + 👂🏻 = 🤖
+## 👁️ + 💬 + 🎧 = 🤖
 
 **foundation model** - a pre-trained machine learning model that serves as a base for a wide range of downstream tasks. It captures general knowledge from a large dataset and can be fine-tuned to perform specific tasks more effectively.
 
@@ -15,11 +15,20 @@ video, audio, etc.) at the same time.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
+### OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models
+[![arXiv](https://img.shields.io/badge/arXiv-2308.01390-b31b1b.svg)](https://arxiv.org/abs/2308.01390) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mlfoundations/open_flamingo) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/openflamingo/OpenFlamingo) 
+
+Anas Awadalla, Irena Gao, Josh Gardner, Jack Hessel, Yusuf Hanafy, Wanrong Zhu, Kalyani Marathe, Yonatan Bitton, Samir Gadre, Shiori Sagawa, Jenia Jitsev, Simon Kornblith, Pang Wei Koh, Gabriel Ilharco, Mitchell Wortsman, Ludwig Schmidt
+- **Date:** 02-08-2023
+- **Modalities:** 👁️ + 💬
+    
+
 ### Kosmos-2: Grounding Multimodal Large Language Models to the World
 [![arXiv](https://img.shields.io/badge/arXiv-2306.14824-b31b1b.svg)](https://arxiv.org/abs/2306.14824) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/microsoft/unilm/tree/master/kosmos-2) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ydshieh/Kosmos-2) 
 
 Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Furu Wei
 - **Date:** 26-07-2023
+- **Modalities:** 👁️ + 💬
     
 
 ### LLaVA: Large Language and Vision Assistant
@@ -27,6 +36,15 @@ Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Furu W
 
 Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 - **Date:** 17-04-2023
+- **Modalities:** 👁️ + 💬
+    
+
+### ImageBind: One Embedding Space To Bind Them All
+[![arXiv](https://img.shields.io/badge/arXiv-2305.05665-b31b1b.svg)](https://arxiv.org/abs/2305.05665) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ImageBind)  
+
+Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra
+- **Date:** 09-05-2023
+- **Modalities:** 👁️ + 💬 + 🎧
     
 
 ### Segment Anything
@@ -34,6 +52,7 @@ Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 
 Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick
 - **Date:** 05-04-2023
+- **Modalities:** 👁️
     
 
 ### Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
@@ -41,13 +60,15 @@ Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura G
 
 Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang
 - **Date:** 09-03-2023
+- **Modalities:** 👁️ + 💬
     
 
 ### BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
-[![arXiv](https://img.shields.io/badge/arXiv-2301.12597-b31b1b.svg)](https://arxiv.org/abs/2301.12597) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Salesforce/BLIP2) 
+[![arXiv](https://img.shields.io/badge/arXiv-2301.12597-b31b1b.svg)](https://arxiv.org/abs/2301.12597) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Salesforce/BLIP2) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salesforce/LAVIS/blob/main/examples/blip2_instructed_generation.ipynb)
 
 Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 - **Date:** 30-01-2023
+- **Modalities:** 👁️ + 💬
     
 
 ### OWL-ST: Scaling Open-Vocabulary Object Detection
@@ -55,6 +76,15 @@ Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 
 Matthias Minderer, Alexey Gritsenko, Neil Houlsby
 - **Date:** 16-01-2023
+- **Modalities:** 👁️ + 💬
+    
+
+### Whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+[![arXiv](https://img.shields.io/badge/arXiv-2212.04356-b31b1b.svg)](https://arxiv.org/abs/2212.04356) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/whisper)  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb)
+
+Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sutskever
+- **Date:** 06-12-2022
+- **Modalities:** 💬️ + 🎧
     
 
 ### OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers
@@ -62,6 +92,7 @@ Matthias Minderer, Alexey Gritsenko, Neil Houlsby
 
 Matthias Minderer, Alexey Gritsenko, Austin Stone, Maxim Neumann, Dirk Weissenborn, Alexey Dosovitskiy, Aravindh Mahendran, Anurag Arnab, Mostafa Dehghani, Zhuoran Shen, Xiao Wang, Xiaohua Zhai, Thomas Kipf, Neil Houlsby
 - **Date:** 12-05-2022
+- **Modalities:** 👁️ + 💬
     
 
 ### CLIP: Learning Transferable Visual Models From Natural Language Supervision
@@ -69,6 +100,7 @@ Matthias Minderer, Alexey Gritsenko, Austin Stone, Maxim Neumann, Dirk Weissenbo
 
 Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever
 - **Date:** 26-02-2021
+- **Modalities:** 👁️ + 💬
     
 <!--- AUTOGENERATED_PAPERS_LIST -->
 
