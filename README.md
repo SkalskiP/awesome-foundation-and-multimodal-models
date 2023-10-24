@@ -30,7 +30,7 @@ Haohe Liu, Qiao Tian, Yi Yuan, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Yuping Wang,
 Anas Awadalla, Irena Gao, Josh Gardner, Jack Hessel, Yusuf Hanafy, Wanrong Zhu, Kalyani Marathe, Yonatan Bitton, Samir Gadre, Shiori Sagawa, Jenia Jitsev, Simon Kornblith, Pang Wei Koh, Gabriel Ilharco, Mitchell Wortsman, Ludwig Schmidt
 - **Date:** 02-08-2023
 - **Modalities:** 👁️ + 💬
-- **Tasks:** Image Captionin
+- **Tasks:** Image Classification, Image Captioning, VQA
     
 
 ### Kosmos-2: Grounding Multimodal Large Language Models to the World
