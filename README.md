@@ -15,12 +15,22 @@ video, audio, etc.) at the same time.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
+### AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining
+[![arXiv](https://img.shields.io/badge/arXiv-2308.05734-b31b1b.svg)](https://arxiv.org/abs/2308.05734) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haoheliu/AudioLDM2) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/haoheliu/AudioLDM_48K_Text-to-HiFiAudio_Generation) 
+
+Haohe Liu, Qiao Tian, Yi Yuan, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Yuping Wang, Wenwu Wang, Yuxuan Wang, Mark D. Plumbley
+- **Date:** 10-08-2023
+- **Modalities:** 💬️ + 🎧
+- **Tasks:** Text-to-Audio, Text-to-Speech
+    
+
 ### OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models
 [![arXiv](https://img.shields.io/badge/arXiv-2308.01390-b31b1b.svg)](https://arxiv.org/abs/2308.01390) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mlfoundations/open_flamingo) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/openflamingo/OpenFlamingo) 
 
 Anas Awadalla, Irena Gao, Josh Gardner, Jack Hessel, Yusuf Hanafy, Wanrong Zhu, Kalyani Marathe, Yonatan Bitton, Samir Gadre, Shiori Sagawa, Jenia Jitsev, Simon Kornblith, Pang Wei Koh, Gabriel Ilharco, Mitchell Wortsman, Ludwig Schmidt
 - **Date:** 02-08-2023
 - **Modalities:** 👁️ + 💬
+- **Tasks:** Image Captionin
     
 
 ### Kosmos-2: Grounding Multimodal Large Language Models to the World
@@ -29,6 +39,7 @@ Anas Awadalla, Irena Gao, Josh Gardner, Jack Hessel, Yusuf Hanafy, Wanrong Zhu, 
 Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Furu Wei
 - **Date:** 26-07-2023
 - **Modalities:** 👁️ + 💬
+- **Tasks:** Image Captioning, VQA, Phrase Grounding
     
 
 ### LLaVA: Large Language and Vision Assistant
@@ -37,6 +48,7 @@ Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Furu W
 Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 - **Date:** 17-04-2023
 - **Modalities:** 👁️ + 💬
+- **Tasks:** 
     
 
 ### ImageBind: One Embedding Space To Bind Them All
@@ -45,6 +57,7 @@ Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra
 - **Date:** 09-05-2023
 - **Modalities:** 👁️ + 💬 + 🎧
+- **Tasks:** 
     
 
 ### Segment Anything
@@ -53,6 +66,7 @@ Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwa
 Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick
 - **Date:** 05-04-2023
 - **Modalities:** 👁️
+- **Tasks:** 
     
 
 ### Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
@@ -61,6 +75,7 @@ Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura G
 Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang
 - **Date:** 09-03-2023
 - **Modalities:** 👁️ + 💬
+- **Tasks:** 
     
 
 ### BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
@@ -69,6 +84,7 @@ Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan L
 Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 - **Date:** 30-01-2023
 - **Modalities:** 👁️ + 💬
+- **Tasks:** 
     
 
 ### OWL-ST: Scaling Open-Vocabulary Object Detection
@@ -77,6 +93,7 @@ Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 Matthias Minderer, Alexey Gritsenko, Neil Houlsby
 - **Date:** 16-01-2023
 - **Modalities:** 👁️ + 💬
+- **Tasks:** 
     
 
 ### Whisper: Robust Speech Recognition via Large-Scale Weak Supervision
@@ -85,6 +102,7 @@ Matthias Minderer, Alexey Gritsenko, Neil Houlsby
 Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sutskever
 - **Date:** 06-12-2022
 - **Modalities:** 💬️ + 🎧
+- **Tasks:** 
     
 
 ### OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers
@@ -93,6 +111,7 @@ Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sut
 Matthias Minderer, Alexey Gritsenko, Austin Stone, Maxim Neumann, Dirk Weissenborn, Alexey Dosovitskiy, Aravindh Mahendran, Anurag Arnab, Mostafa Dehghani, Zhuoran Shen, Xiao Wang, Xiaohua Zhai, Thomas Kipf, Neil Houlsby
 - **Date:** 12-05-2022
 - **Modalities:** 👁️ + 💬
+- **Tasks:** 
     
 
 ### CLIP: Learning Transferable Visual Models From Natural Language Supervision
@@ -101,6 +120,7 @@ Matthias Minderer, Alexey Gritsenko, Austin Stone, Maxim Neumann, Dirk Weissenbo
 Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever
 - **Date:** 26-02-2021
 - **Modalities:** 👁️ + 💬
+- **Tasks:** 
     
 <!--- AUTOGENERATED_PAPERS_LIST -->
 

@@ -8,7 +8,7 @@ from pandas.core.series import Series
 TITLE_COLUMN_NAME = "title"
 AUTHORS_COLUMN_NAME = "authors"
 DATE_COLUMN_NAME = "date"
-TASK_COLUMN_NAME = "task"
+TASKS_COLUMN_NAME = "tasks"
 MODALITIES_COLUMN_NAME = "modalities"
 PAPER_COLUMN_NAME = "paper"
 CODE_COLUMN_NAME = "code"
@@ -54,6 +54,7 @@ def format_entry(entry: Series) -> str:
     title = entry.loc[TITLE_COLUMN_NAME]
     date = entry.loc[DATE_COLUMN_NAME]
     authors = entry.loc[AUTHORS_COLUMN_NAME]
+    tasks = entry.loc[TASKS_COLUMN_NAME]
     paper_url = entry.loc[PAPER_COLUMN_NAME]
     code_url = entry.loc[CODE_COLUMN_NAME]
     huggingface_url = entry.loc[HUGGINGFACE_COLUMN_NAME]
@@ -71,6 +72,7 @@ def format_entry(entry: Series) -> str:
 {authors}
 - **Date:** {date}
 - **Modalities:** {modalities}
+- **Tasks:** {tasks}
     """
 
 
