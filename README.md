@@ -15,6 +15,15 @@ video, audio, etc.) at the same time.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
+### GPT-4 Vision
+   
+
+ "OpenAI researchers listed in [GPT-4V(ision) technical work and authors](https://openai.com/contributions/gpt-4v)"
+- **Date:**  25-09-2023
+- **Modalities:** 👁️ + 💬+ 🎧
+- **Tasks:** VQA, Classification
+    
+
 ### AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining
 [![arXiv](https://img.shields.io/badge/arXiv-2308.05734-b31b1b.svg)](https://arxiv.org/abs/2308.05734) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haoheliu/AudioLDM2) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/haoheliu/AudioLDM_48K_Text-to-HiFiAudio_Generation) 
 
