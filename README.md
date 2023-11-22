@@ -15,6 +15,33 @@ video, audio, etc.) at the same time.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
+### CogVLM: Visual Expert for Pretrained Language Models
+[![arXiv](https://img.shields.io/badge/arXiv-2311.03079-b31b1b.svg)](https://arxiv.org/abs/2311.03079) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/THUDM/CogVLM) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/lykeven/CogVLM) 
+
+Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, Lei Zhao, Xixuan Song, Jiazheng Xu, Bin Xu, Juanzi Li, Yuxiao Dong, Ming Ding, Jie Tang
+- **Date:** 06-11-2023
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Image Captioning, VQA
+    
+
+### Fuyu-8B: A Multimodal Architecture for AI Agents
+  [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/adept/fuyu-8b-demo) 
+
+Rohan Bavishi, Erich Elsen, Curtis Hawthorne, Maxwell Nye, Augustus Odena, Arushi Somani, Sağnak Taşırlar
+- **Date:** 17-10-2023
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Image Classification, Image Captioning, VQA, Find Text in Image
+    
+
+### Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond
+[![arXiv](https://img.shields.io/badge/arXiv-2308.12966-b31b1b.svg)](https://arxiv.org/abs/2308.12966) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-VL)  
+
+Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou
+- **Date:** 24-09-2023
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Image Captioning, VQA
+    
+
 ### AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining
 [![arXiv](https://img.shields.io/badge/arXiv-2308.05734-b31b1b.svg)](https://arxiv.org/abs/2308.05734) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haoheliu/AudioLDM2) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/haoheliu/AudioLDM_48K_Text-to-HiFiAudio_Generation) 
 
