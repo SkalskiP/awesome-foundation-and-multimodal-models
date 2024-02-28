@@ -21,7 +21,16 @@ video, audio, etc.) at the same time.
 Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
 - **Date:** 30-01-2024
 - **Modalities:** 👁️ + 💬
-- **Tasks:** Phrase Grounding, Object Detection
+- **Tasks:** Zero-Shot Object Detection
+    
+
+### EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
+[![arXiv](https://img.shields.io/badge/arXiv-2312.00863-b31b1b.svg)](https://arxiv.org/abs/2312.00863) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yformer/EfficientSAM) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SkalskiP/EfficientSAM) 
+
+Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra
+- **Date:** 01-12-2023
+- **Modalities:** 👁️
+- **Tasks:** Zero-Shot Object Segmentation
     
 
 ### Qwen-VL-Plus / Max
@@ -30,7 +39,7 @@ Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
 Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou
 - **Date:** 28-11-2023
 - **Modalities:** 👁️ + 💬
-- **Tasks:** Image Captioning, VQA
+- **Tasks:** Image Captioning, VQA, Zero-Shot Object Detection
     
 
 ### Ferret: Refer and Ground Anything Anywhere at Any Granularity
@@ -129,7 +138,7 @@ Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwa
 Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick
 - **Date:** 05-04-2023
 - **Modalities:** 👁️
-- **Tasks:** 
+- **Tasks:** Zero-Shot Object Segmentation
     
 
 ### Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
@@ -138,7 +147,7 @@ Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura G
 Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang
 - **Date:** 09-03-2023
 - **Modalities:** 👁️ + 💬
-- **Tasks:** Phrase Grounding, Object Detection
+- **Tasks:** Phrase Grounding, Zero-Shot Object Detection
     
 
 ### BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
@@ -156,7 +165,7 @@ Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 Matthias Minderer, Alexey Gritsenko, Neil Houlsby
 - **Date:** 16-01-2023
 - **Modalities:** 👁️ + 💬
-- **Tasks:** 
+- **Tasks:** Zero-Shot Object Detection
     
 
 ### Whisper: Robust Speech Recognition via Large-Scale Weak Supervision
@@ -165,7 +174,7 @@ Matthias Minderer, Alexey Gritsenko, Neil Houlsby
 Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sutskever
 - **Date:** 06-12-2022
 - **Modalities:** 💬️ + 🎧
-- **Tasks:** 
+- **Tasks:** Speech-to-Text
     
 
 ### OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers
@@ -174,7 +183,7 @@ Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sut
 Matthias Minderer, Alexey Gritsenko, Austin Stone, Maxim Neumann, Dirk Weissenborn, Alexey Dosovitskiy, Aravindh Mahendran, Anurag Arnab, Mostafa Dehghani, Zhuoran Shen, Xiao Wang, Xiaohua Zhai, Thomas Kipf, Neil Houlsby
 - **Date:** 12-05-2022
 - **Modalities:** 👁️ + 💬
-- **Tasks:** 
+- **Tasks:** Zero-Shot Object Detection
     
 
 ### CLIP: Learning Transferable Visual Models From Natural Language Supervision
