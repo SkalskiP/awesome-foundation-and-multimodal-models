@@ -49,10 +49,10 @@ def save_lines_to_file(path: str, lines: List[str]) -> None:
 
 def format_entry(entry: Series) -> str:
     """
-    Formats entry into Markdown table row.
+    Formats entry into Markdown table row, ensuring dates are formatted correctly.
     """
     title = entry.loc[TITLE_COLUMN_NAME]
-    date = entry.loc[DATE_COLUMN_NAME]
+    date = entry.loc[DATE_COLUMN_NAME].strftime('%Y-%m-%d')
     authors = entry.loc[AUTHORS_COLUMN_NAME]
     tasks = entry.loc[TASKS_COLUMN_NAME]
     paper_url = entry.loc[PAPER_COLUMN_NAME]
@@ -78,11 +78,13 @@ def format_entry(entry: Series) -> str:
 
 def load_table_entries(path: str) -> List[str]:
     """
-    Loads table entries from csv file.
+    Loads table entries from csv file, sorted by date in descending order and formats dates.
     """
     df = pd.read_csv(path, quotechar='"', dtype=str)
     df.columns = df.columns.str.strip()
     df = df.fillna("")
+    df[DATE_COLUMN_NAME] = pd.to_datetime(df[DATE_COLUMN_NAME], dayfirst=True)
+    df.sort_values(by=DATE_COLUMN_NAME, ascending=False, inplace=True)
     return [
         format_entry(row)
         for _, row
