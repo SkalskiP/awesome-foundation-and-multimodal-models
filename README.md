@@ -28,7 +28,7 @@ Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
 [![arXiv](https://img.shields.io/badge/arXiv-2401.10891-b31b1b.svg)](https://arxiv.org/abs/2401.10891) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/LiheYoung/Depth-Anything) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/LiheYoung/Depth-Anything) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/LiheYoung/depth_anything_vitl14) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/Depth%20Anything/Predicting_depth_in_an_image_with_Depth_Anything.ipynb)
 
 Lihe Yang, Bingyi Kang, Zilong Huang, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao
-- **Date:** 19-01-2024
+- **Date:** 2024-01-19
 - **Modalities:** 👁️
 - **Tasks:** Depth Estimation
     
@@ -37,7 +37,7 @@ Lihe Yang, Bingyi Kang, Zilong Huang, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao
 [![arXiv](https://img.shields.io/badge/arXiv-2312.00863-b31b1b.svg)](https://arxiv.org/abs/2312.00863) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yformer/EfficientSAM) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SkalskiP/EfficientSAM) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/merve/EfficientSAM) 
 
 Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra
-- **Date:** 01-12-2023
+- **Date:** 2023-12-01
 - **Modalities:** 👁️
 - **Tasks:** Zero-Shot Object Segmentation
     
@@ -46,7 +46,7 @@ Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Z
 [![arXiv](https://img.shields.io/badge/arXiv-2311.03079-b31b1b.svg)](https://arxiv.org/abs/2311.03079) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/THUDM/CogVLM) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/lykeven/CogVLM) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/THUDM/CogVLM) 
 
 Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, Lei Zhao, Xixuan Song, Jiazheng Xu, Bin Xu, Juanzi Li, Yuxiao Dong, Ming Ding, Jie Tang
-- **Date:** 06-11-2023
+- **Date:** 2023-11-06
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Image Captioning, VQA
     
@@ -64,7 +64,7 @@ Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang 
   [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/adept/fuyu-8b-demo) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/adept/fuyu-8b) 
 
 Rohan Bavishi, Erich Elsen, Curtis Hawthorne, Maxwell Nye, Augustus Odena, Arushi Somani, Sağnak Taşırlar
-- **Date:** 17-10-2023
+- **Date:** 2023-10-17
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Image Classification, Image Captioning, VQA, Find Text in Image
     
@@ -82,7 +82,7 @@ Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangl
 [![arXiv](https://img.shields.io/badge/arXiv-2309.16671-b31b1b.svg)](https://arxiv.org/abs/2309.16671) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/MetaCLIP) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SkalskiP/SAM_and_MetaCLIP) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/facebook/metaclip-b32-400m) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V0Rv1QQJkcolTjiwJuRsqWycROvYjOwg?usp=sharing)
 
 Hu Xu, Saining Xie, Xiaoqing Ellen Tan, Po-Yao Huang, Russell Howes, Vasu Sharma, Shang-Wen Li, Gargi Ghosh, Luke Zettlemoyer, Christoph Feichtenhofer
-- **Date:** 28-09-2023
+- **Date:** 2023-09-28
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Zero-Shot Classification
     
@@ -91,7 +91,7 @@ Hu Xu, Saining Xie, Xiaoqing Ellen Tan, Po-Yao Huang, Russell Howes, Vasu Sharma
 [![arXiv](https://img.shields.io/badge/arXiv-2308.12966-b31b1b.svg)](https://arxiv.org/abs/2308.12966) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-VL) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Qwen/Qwen-VL-Max) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/Qwen/Qwen-VL) 
 
 Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou
-- **Date:** 24-09-2023
+- **Date:** 2023-09-24
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Image Captioning, VQA
     
@@ -102,6 +102,7 @@ Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang 
 Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, Lucas Beyer
 - **Date:** 27-08-2023
 - **Modalities:** 👁️💬
+
 - **Tasks:** Zero-Shot Image Classification
     
 
@@ -118,7 +119,7 @@ Lukas Blecher, Guillem Cucurull, Thomas Scialom, Robert Stojnic
 [![arXiv](https://img.shields.io/badge/arXiv-2308.05734-b31b1b.svg)](https://arxiv.org/abs/2308.05734) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haoheliu/AudioLDM2) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/haoheliu/AudioLDM_48K_Text-to-HiFiAudio_Generation) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/spaces/haoheliu/audioldm2-text2audio-text2music) 
 
 Haohe Liu, Qiao Tian, Yi Yuan, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Yuping Wang, Wenwu Wang, Yuxuan Wang, Mark D. Plumbley
-- **Date:** 10-08-2023
+- **Date:** 2023-08-10
 - **Modalities:** 💬️ + 🎧
 - **Tasks:** Text-to-Audio, Text-to-Speech
     
@@ -127,7 +128,7 @@ Haohe Liu, Qiao Tian, Yi Yuan, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Yuping Wang,
 [![arXiv](https://img.shields.io/badge/arXiv-2308.01390-b31b1b.svg)](https://arxiv.org/abs/2308.01390) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mlfoundations/open_flamingo) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/openflamingo/OpenFlamingo) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/openflamingo/OpenFlamingo-9B-vitl-mpt7b) 
 
 Anas Awadalla, Irena Gao, Josh Gardner, Jack Hessel, Yusuf Hanafy, Wanrong Zhu, Kalyani Marathe, Yonatan Bitton, Samir Gadre, Shiori Sagawa, Jenia Jitsev, Simon Kornblith, Pang Wei Koh, Gabriel Ilharco, Mitchell Wortsman, Ludwig Schmidt
-- **Date:** 02-08-2023
+- **Date:** 2023-08-02
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Image Classification, Image Captioning, VQA
     
@@ -136,7 +137,7 @@ Anas Awadalla, Irena Gao, Josh Gardner, Jack Hessel, Yusuf Hanafy, Wanrong Zhu, 
 [![arXiv](https://img.shields.io/badge/arXiv-2306.14824-b31b1b.svg)](https://arxiv.org/abs/2306.14824) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/microsoft/unilm/tree/master/kosmos-2) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ydshieh/Kosmos-2) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/microsoft/kosmos-2-patch14-224) 
 
 Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Furu Wei
-- **Date:** 26-07-2023
+- **Date:** 2023-07-26
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Image Captioning, VQA, Phrase Grounding
     
@@ -154,7 +155,7 @@ Matthias Minderer, Alexey Gritsenko, Neil Houlsby
 [![arXiv](https://img.shields.io/badge/arXiv-2305.05665-b31b1b.svg)](https://arxiv.org/abs/2305.05665) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ImageBind) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/JustinLin610/ImageBind_zeroshot_demo)  
 
 Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra
-- **Date:** 09-05-2023
+- **Date:** 2023-05-09
 - **Modalities:** 👁️ + 💬 + 🎧
 - **Tasks:** 
     
@@ -172,7 +173,7 @@ Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 [![arXiv](https://img.shields.io/badge/arXiv-2304.02643-b31b1b.svg)](https://arxiv.org/abs/2304.02643) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/segment-anything) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/radames/candle-segment-anything-wasm) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/facebook/sam-vit-base) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb)
 
 Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick
-- **Date:** 05-04-2023
+- **Date:** 2023-04-05
 - **Modalities:** 👁️
 - **Tasks:** Zero-Shot Object Segmentation
     
@@ -181,7 +182,7 @@ Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura G
 [![arXiv](https://img.shields.io/badge/arXiv-2303.05499-b31b1b.svg)](https://arxiv.org/abs/2303.05499) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/IDEA-Research/GroundingDINO) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ShilongLiu/Grounding_DINO_demo) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/spaces/merve/Grounding_DINO_demo) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-grounding-dino.ipynb)
 
 Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang
-- **Date:** 09-03-2023
+- **Date:** 2023-03-09
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Phrase Grounding, Zero-Shot Object Detection
     
@@ -190,7 +191,7 @@ Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan L
 [![arXiv](https://img.shields.io/badge/arXiv-2301.12597-b31b1b.svg)](https://arxiv.org/abs/2301.12597) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/BLIP2-with-transformers) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/Salesforce/blip2-opt-6.7b) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salesforce/LAVIS/blob/main/examples/blip2_instructed_generation.ipynb)
 
 Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
-- **Date:** 30-01-2023
+- **Date:** 2023-01-30
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Image Captioning, Visual Question Answering
     
@@ -199,16 +200,25 @@ Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 [![arXiv](https://img.shields.io/badge/arXiv-2212.04356-b31b1b.svg)](https://arxiv.org/abs/2212.04356) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/whisper) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/openai/whisper) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/openai/whisper-large-v3) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb)
 
 Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sutskever
-- **Date:** 06-12-2022
+- **Date:** 2022-12-06
 - **Modalities:** 💬️ + 🎧
 - **Tasks:** Speech-to-Text
+    
+
+### Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding
+[![arXiv](https://img.shields.io/badge/arXiv-2210.03347-b31b1b.svg)](https://arxiv.org/abs/2210.03347) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/pix2struct) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/pix2struct) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/huggingface/notebooks/blob/main/examples/image_captioning_pix2struct.ipynb)
+
+Kenton Lee, Mandar Joshi, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova
+- **Date:** 2022-10-07
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Visual Question Answering
     
 
 ### OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers
 [![arXiv](https://img.shields.io/badge/arXiv-2205.06230-b31b1b.svg)](https://arxiv.org/abs/2205.06230) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/adirik/OWL-ViT) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/google/owlvit-base-patch32) 
 
 Matthias Minderer, Alexey Gritsenko, Austin Stone, Maxim Neumann, Dirk Weissenborn, Alexey Dosovitskiy, Aravindh Mahendran, Anurag Arnab, Mostafa Dehghani, Zhuoran Shen, Xiao Wang, Xiaohua Zhai, Thomas Kipf, Neil Houlsby
-- **Date:** 12-05-2022
+- **Date:** 2022-05-12
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Zero-Shot Object Detection
     
@@ -217,7 +227,7 @@ Matthias Minderer, Alexey Gritsenko, Austin Stone, Maxim Neumann, Dirk Weissenbo
 [![arXiv](https://img.shields.io/badge/arXiv-2103.00020-b31b1b.svg)](https://arxiv.org/abs/2103.00020) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/CLIP)  [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/openai/clip-vit-large-patch14) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-use-openai-clip-classification.ipynb)
 
 Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever
-- **Date:** 26-02-2021
+- **Date:** 2021-02-26
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Zero-Shot Classification
     
