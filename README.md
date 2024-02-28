@@ -79,12 +79,12 @@ Hu Xu, Saining Xie, Xiaoqing Ellen Tan, Po-Yao Huang, Russell Howes, Vasu Sharma
     
 
 ### Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond
-[![arXiv](https://img.shields.io/badge/arXiv-2308.12966-b31b1b.svg)](https://arxiv.org/abs/2308.12966) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-VL) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Qwen/Qwen-VL-Max) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/Qwen/Qwen-VL) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](👁️ + 💬)
+[![arXiv](https://img.shields.io/badge/arXiv-2308.12966-b31b1b.svg)](https://arxiv.org/abs/2308.12966) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-VL) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Qwen/Qwen-VL-Max) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/Qwen/Qwen-VL) 
 
 Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou
 - **Date:** 24-09-2023
-- **Modalities:** Image Captioning, VQA
-- **Tasks:** 
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Image Captioning, VQA
     
 
 ### AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining
@@ -120,7 +120,7 @@ Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Furu W
 Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 - **Date:** 17-04-2023
 - **Modalities:** 👁️ + 💬
-- **Tasks:** 
+- **Tasks:** Vision Language Modeling
     
 
 ### ImageBind: One Embedding Space To Bind Them All
@@ -156,7 +156,7 @@ Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan L
 Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 - **Date:** 30-01-2023
 - **Modalities:** 👁️ + 💬
-- **Tasks:** 
+- **Tasks:** Image Captioning, Visual Question Answering
     
 
 ### OWL-ST: Scaling Open-Vocabulary Object Detection
