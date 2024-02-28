@@ -51,15 +51,6 @@ Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zh
 - **Tasks:** Image Captioning, VQA
     
 
-### SigLIP: Sigmoid Loss for Language Image Pre-Training
-[![arXiv](https://img.shields.io/badge/arXiv-2303.15343-b31b1b.svg)](https://arxiv.org/abs/2303.15343) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/compare_clip_siglip) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/openai/clip-vit-base-patch16) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/SigLIP/Inference_with_(multilingual)_SigLIP%2C_a_better_CLIP_model.ipynb)
-
-Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, Lucas Beyer
-- **Date:** 27-08-2023
-- **Modalities:** 👁️💬
-- **Tasks:** Zero-Shot Image Classification
-    
-
 ### Qwen-VL-Plus / Max
 [![arXiv](https://img.shields.io/badge/arXiv-2308.12966-b31b1b.svg)](https://arxiv.org/abs/2308.12966) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-VL#qwen-vl-plus) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Qwen/Qwen-VL-Plus) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/Qwen/Qwen-VL) 
 
@@ -69,15 +60,6 @@ Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang 
 - **Tasks:** Image Captioning, VQA, Zero-Shot Object Detection
     
 
-### Ferret: Refer and Ground Anything Anywhere at Any Granularity
-[![arXiv](https://img.shields.io/badge/arXiv-2310.07704-b31b1b.svg)](https://arxiv.org/abs/2310.07704) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/apple/ml-ferret)   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](👁️ + 💬)
-
-Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang
-- **Date:** 11-10-2023
-- **Modalities:** Image Captioning, VQA, Phrase Grounding, Object Detection
-- **Tasks:** 
-    
-
 ### Fuyu-8B: A Multimodal Architecture for AI Agents
   [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/adept/fuyu-8b-demo) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/adept/fuyu-8b) 
 
@@ -85,6 +67,15 @@ Rohan Bavishi, Erich Elsen, Curtis Hawthorne, Maxwell Nye, Augustus Odena, Arush
 - **Date:** 17-10-2023
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Image Classification, Image Captioning, VQA, Find Text in Image
+    
+
+### Ferret: Refer and Ground Anything Anywhere at Any Granularity
+[![arXiv](https://img.shields.io/badge/arXiv-2310.07704-b31b1b.svg)](https://arxiv.org/abs/2310.07704) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/apple/ml-ferret)   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](👁️ + 💬)
+
+Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang
+- **Date:** 11-10-2023
+- **Modalities:** Image Captioning, VQA, Phrase Grounding, Object Detection
+- **Tasks:** 
     
 
 ### MetaCLIP: Demystifying CLIP Data
@@ -103,6 +94,15 @@ Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang 
 - **Date:** 24-09-2023
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Image Captioning, VQA
+    
+
+### SigLIP: Sigmoid Loss for Language Image Pre-Training
+[![arXiv](https://img.shields.io/badge/arXiv-2303.15343-b31b1b.svg)](https://arxiv.org/abs/2303.15343) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/compare_clip_siglip) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/openai/clip-vit-base-patch16) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/SigLIP/Inference_with_(multilingual)_SigLIP%2C_a_better_CLIP_model.ipynb)
+
+Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, Lucas Beyer
+- **Date:** 27-08-2023
+- **Modalities:** 👁️💬
+- **Tasks:** Zero-Shot Image Classification
     
 
 ### Nougat: Neural Optical Understanding for Academic Documents
@@ -202,15 +202,6 @@ Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sut
 - **Date:** 06-12-2022
 - **Modalities:** 💬️ + 🎧
 - **Tasks:** Speech-to-Text
-    
-
-### Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding
-[![arXiv](https://img.shields.io/badge/arXiv-2210.03347-b31b1b.svg)](https://arxiv.org/abs/2210.03347) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/pix2struct) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/pix2struct) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/google/pix2struct-docvqa-base) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/huggingface/notebooks/blob/main/examples/image_captioning_pix2struct.ipynb)
-
-Kenton Lee, Mandar Joshi, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova
-- **Date:** 07-10-2022
-- **Modalities:** 👁️💬
-- **Tasks:** Visual Question Answering
     
 
 ### OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers
