@@ -15,6 +15,51 @@ video, audio, etc.) at the same time.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
+### OWLv2: Scaling Open-Vocabulary Object Detection
+[![arXiv](https://img.shields.io/badge/arXiv-2306.09683-b31b1b.svg)](https://arxiv.org/abs/2306.09683) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/owlv2) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/OWLv2/Zero_and_one_shot_object_detection_with_OWLv2.ipynb)
+
+Matthias Minderer, Alexey Gritsenko, Neil Houlsby
+- **Date:** 17-06-2023
+- **Modalities:** 👁️
+- **Tasks:** Zero-Shot Object Detection
+    
+
+### SigLIP: Sigmoid Loss for Language Image Pre-Training
+[![arXiv](https://img.shields.io/badge/arXiv-2303.15343-b31b1b.svg)](https://arxiv.org/abs/2303.15343) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/big_vision) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/compare_clip_siglip) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/SigLIP/Inference_with_(multilingual)_SigLIP%2C_a_better_CLIP_model.ipynb)
+
+Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, Lucas Beyer
+- **Date:** 27-08-2023
+- **Modalities:** 👁️💬
+- **Tasks:** Zero-Shot Image Classification
+    
+
+### Nougat: Neural Optical Understanding for Academic Documents
+[![arXiv](https://img.shields.io/badge/arXiv-2308.13418-b31b1b.svg)](https://arxiv.org/abs/2308.13418) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/nougat) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/hf-vision/nougat-transformers) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/Nougat/Inference_with_Nougat_to_read_scientific_PDFs.ipynb)
+
+Lukas Blecher, Guillem Cucurull, Thomas Scialom, Robert Stojnic
+- **Date:** 25-08-2023
+- **Modalities:** 👁️💬
+- **Tasks:** Visual Question Answering
+    
+
+### Depth Anything
+[![arXiv](https://img.shields.io/badge/arXiv-2401.10891-b31b1b.svg)](https://arxiv.org/abs/2401.10891) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/LiheYoung/Depth-Anything) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/LiheYoung/Depth-Anything) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/Depth%20Anything/Predicting_depth_in_an_image_with_Depth_Anything.ipynb)
+
+Lihe Yang, Bingyi Kang, Zilong Huang, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao
+- **Date:** 19-01-2024
+- **Modalities:** 👁️
+- **Tasks:** Depth Estimation
+    
+
+### Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding
+[![arXiv](https://img.shields.io/badge/arXiv-2210.03347-b31b1b.svg)](https://arxiv.org/abs/2210.03347) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/pix2struct) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/pix2struct) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/huggingface/notebooks/blob/main/examples/image_captioning_pix2struct.ipynb)
+
+Kenton Lee, Mandar Joshi, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova
+- **Date:** 07-10-2022
+- **Modalities:** 👁️💬
+- **Tasks:** Visual Question Answering
+    
+
 ### YOLO-World: Real-Time Open-Vocabulary Object Detection
 [![arXiv](https://img.shields.io/badge/arXiv-2401.17270-b31b1b.svg)](https://arxiv.org/abs/2401.17270) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/AILab-CVC/YOLO-World) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SkalskiP/YOLO-World)  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-yolo-world.ipynb)
 
