@@ -15,6 +15,15 @@ video, audio, etc.) at the same time.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
+### MJev-Spatial: System One Spatial Intelligence via Native Attention Matching
+[![arXiv](https://img.shields.io/badge/arXiv-2610.22276-b31b1b.svg)](https://arxiv.org/abs/2610.22276) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Fr0zenCrane/MJev-Spatial)   [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/mindlab-research/MJev-Spatial-4B) 
+
+Luozheng Qin, Yuhan Zhu, Changhai Zhou, Qian Qiao, Jun Gao, Yuhua Zhou, Harry Zhang, Xiangyu Zeng, Yuxuan Liu, Yuxin Lu, Kaijie Chen, Andrew Chen, Pony Ma
+- **Date:** 2026-10-15
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Spatial Relation Classification, Numerical Estimation, Image Pointing
+    
+
 ### VideoJev: System One Model for Video Understanding and Interaction
 [![arXiv](https://img.shields.io/badge/arXiv-2610.18615-b31b1b.svg)](https://arxiv.org/abs/2610.18615) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MCG-NJU/VideoJev)    
 
@@ -49,6 +58,15 @@ Xinhao Li, Yuhan Zhu, Xiangyu Zeng, Yuhao Dong, Haoning Wu, Zhiqiu Zhang, Yuando
 - **Date:** 2026-07-16
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Video Understanding, Temporal Grounding, Streaming Response
+    
+
+### JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence
+[![arXiv](https://img.shields.io/badge/arXiv-2606.14777-b31b1b.svg)](https://arxiv.org/abs/2606.14777) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jd-opensource/JoyAI-VL-Interaction)   [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/jdopensource/JoyAI-VL-Interaction) 
+
+Dingyu Yao, Junhao Zhou, Chenxu Yang, Chuanyu Qin, Xiangyu Zeng, Yifei Li, Haowen Hou, Zheming Liang, Congcong Wang, Kaiwen Tuo, Jun Zhang, Yuhan Zhu, Yuhang Cao, Shenglong Ye, Shuai Xie, Shuhuan Gu, Haoyang Huang, Qingyi Si, Nan Duan, Jiaqi Wang
+- **Date:** 2026-06-10
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Real-Time Video Interaction, Response Timing, Background Delegation
     
 
 ### Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning
