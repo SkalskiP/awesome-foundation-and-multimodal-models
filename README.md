@@ -15,6 +15,69 @@ video, audio, etc.) at the same time.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
+### MJev-Spatial: System One Spatial Intelligence via Native Attention Matching
+[![arXiv](https://img.shields.io/badge/arXiv-2610.22276-b31b1b.svg)](https://arxiv.org/abs/2610.22276) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Fr0zenCrane/MJev-Spatial)   [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/mindlab-research/MJev-Spatial-4B) 
+
+Luozheng Qin, Yuhan Zhu, Changhai Zhou, Qian Qiao, Jun Gao, Yuhua Zhou, Harry Zhang, Xiangyu Zeng, Yuxuan Liu, Yuxin Lu, Kaijie Chen, Andrew Chen, Pony Ma
+- **Date:** 2026-10-15
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Spatial Relation Classification, Numerical Estimation, Image Pointing
+    
+
+### VideoJev: System One Model for Video Understanding and Interaction
+[![arXiv](https://img.shields.io/badge/arXiv-2610.18615-b31b1b.svg)](https://arxiv.org/abs/2610.18615) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MCG-NJU/VideoJev)    
+
+Yuhan Zhu, Xiangyu Zeng, Qingyi Si, Chenxu Yang, Yifei Li, Luozheng Qin, Junhao Zhou, Dingyu Yao, Jun Zhang, Chuanyu Qin, Zhiqiu Zhang, Yuandong Yang, Yuqi Xu, Tianyu Zhang, Hongcheng Guo, Jiaqi Wang, Nan Duan, Limin Wang
+- **Date:** 2026-10-13
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Temporal Grounding, Multiple-Choice Video QA
+    
+
+### OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction
+[![arXiv](https://img.shields.io/badge/arXiv-2610.01762-b31b1b.svg)](https://arxiv.org/abs/2610.01762) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MCG-NJU/OneStreamer)    
+
+Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Qingyi Si, Dingyu Yao, Changlian Ma, Haoran Chen, Xinyu Chen, Yansong Shi, Junhao Zhou, Yifei Li, Jun Zhang, Chuanyu Qin, Chenxu Yang, Xinlei Yu, Kun Ouyang, Yuchen Shao, Qianshan Wei, Changhai Zhou, Jun Gao, Jiaqi Wang, Limin Wang
+- **Date:** 2026-10-01
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Streaming Video Interaction, Video Memory
+    
+
+### TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs
+[![arXiv](https://img.shields.io/badge/arXiv-2607.17423-b31b1b.svg)](https://arxiv.org/abs/2607.17423) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MCG-NJU/TimeLens2)    
+
+Yuhan Zhu, Changlian Ma, Xiangyu Zeng, Xinhao Li, Zhiqiu Zhang, Songze Li, Jun Zhang, Tianxiang Jiang, Yuandong Yang, Ziang Yan, Zikang Wang, Xinyu Chen, Haoran Chen, Shaowei Zhang, Limin Wang
+- **Date:** 2026-07-19
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Temporal Video Grounding
+    
+
+### VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding
+[![arXiv](https://img.shields.io/badge/arXiv-2607.14935-b31b1b.svg)](https://arxiv.org/abs/2607.14935) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MCG-NJU/VideoChat3)    
+
+Xinhao Li, Yuhan Zhu, Xiangyu Zeng, Yuhao Dong, Haoning Wu, Zhiqiu Zhang, Yuandong Yang, Changlian Ma, Qingyu Zhang, Yansong Shi, Xinyu Chen, Haoran Chen, Zizheng Huang, Jun Zhang, Kun Ouyang, Lin Sui, Ziang Yan, Yicheng Xu, Chenting Wang, Yinan He, Hongjie Zhang, Yi Wang, Yu Qiao, Yali Wang, Ziwei Liu, Kai Chen, Limin Wang
+- **Date:** 2026-07-16
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Video Understanding, Temporal Grounding, Streaming Response
+    
+
+### JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence
+[![arXiv](https://img.shields.io/badge/arXiv-2606.14777-b31b1b.svg)](https://arxiv.org/abs/2606.14777) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jd-opensource/JoyAI-VL-Interaction)   [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/jdopensource/JoyAI-VL-Interaction) 
+
+Dingyu Yao, Junhao Zhou, Chenxu Yang, Chuanyu Qin, Xiangyu Zeng, Yifei Li, Haowen Hou, Zheming Liang, Congcong Wang, Kaiwen Tuo, Jun Zhang, Yuhan Zhu, Yuhang Cao, Shenglong Ye, Shuai Xie, Shuhuan Gu, Haoyang Huang, Qingyi Si, Nan Duan, Jiaqi Wang
+- **Date:** 2026-06-10
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Real-Time Video Interaction, Response Timing, Background Delegation
+    
+
+### Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning
+[![arXiv](https://img.shields.io/badge/arXiv-2601.23224-b31b1b.svg)](https://arxiv.org/abs/2601.23224) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MCG-NJU/Video-o3)    
+
+Xiangyu Zeng, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Zikang Wang, Changlian Ma, Qingyu Zhang, Zizheng Huang, Kun Ouyang, Tianxiang Jiang, Ziang Yan, Yi Wang, Hongjie Zhang, Yali Wang, Limin Wang
+- **Date:** 2026-01-30
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Long-Video Multi-Hop Reasoning
+    
+
 ### YOLO-World: Real-Time Open-Vocabulary Object Detection
 [![arXiv](https://img.shields.io/badge/arXiv-2401.17270-b31b1b.svg)](https://arxiv.org/abs/2401.17270) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/AILab-CVC/YOLO-World) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/X7gKBGVz4vs) [![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SkalskiP/YOLO-World)  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-yolo-world.ipynb)
 
